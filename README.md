@@ -126,35 +126,35 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(70).pdf" style="text-decoration:none;">Microkernel operating system architecture and Mach</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(39).pdf" style="text-decoration:none;">Design Patterns: Elements of Reusable Object-Oriented Software </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(71).pdf" style="text-decoration:none;">A Description of the Model-View-Controller User Interface Paradigm in the Smalltalk-80 System </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(40).pdf" style="text-decoration:none;">Go To Statement Considered Harmful </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(72).pdf" style="text-decoration:none;">Software Engineering</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(41).pdf" style="text-decoration:none;"> Probabilistic Reasoning in Intelligent Systems</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(73).pdf" style="text-decoration:none;"> Realization of Natural Language Interfaces Using Lazy Functional Programming</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(42).pdf" style="text-decoration:none;">A fast learning algorithm for deep belief nets</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(74).pdf" style="text-decoration:none;">The Notions of Consistency and Predicate Locks in a Database System</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(43).pdf" style="text-decoration:none;">Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(75).pdf" style="text-decoration:none;">Operating System Principles</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(44).pdf" style="text-decoration:none;">A Fast File System for UNIX</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(45).pdf" style="text-decoration:none;">Assigning Meanings to Programs</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(76).pdf" style="text-decoration:none;">The Emperor's Old Clothes </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(77).pdf" style="text-decoration:none;">A Program Data Flow Analysis Procedure</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(46).pdf" style="text-decoration:none;"> Learnability and the Vapnik-Chervonenkis Dimension</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(78).pdf" style="text-decoration:none;"> Virtual Memory, Processes, and Sharing in MULTICS</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(47).pdf" style="text-decoration:none;">An Empirical Study of the Robustness of Windows NT Applications Using Random Testing</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(79).pdf" style="text-decoration:none;">A Technique for Software Module Specification with Examples</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(48).pdf" style="text-decoration:none;">Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(80).pdf" style="text-decoration:none;">Reflections on Trusting Trust</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(49).pdf" style="text-decoration:none;">Weighted Voting for Replicated Data </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(50).pdf" style="text-decoration:none;">The Knowledge Complexity of Interactive Proof-Systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(51).pdf" style="text-decoration:none;">An axiomatic basis for computer programming</a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(52).pdf" style="text-decoration:none;">Determining Optical Flow</a></b></li>                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(81).pdf" style="text-decoration:none;">Extended Boolean Information Retrieval </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(82).pdf" style="text-decoration:none;">gprof: a Call Graph Execution Profiler</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(83).pdf" style="text-decoration:none;">Collaborative Networks: Value creation in a knowledge society</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(84).pdf" style="text-decoration:none;">On the criteria to be used in decomposing systems into modules</a></b></li>                                
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(53).pdf" style="text-decoration:none;">A Method for the Construction of Minimum-Redundancy Codes</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(85).pdf" style="text-decoration:none;">The Laplacian Pyramid as a Compact Image Code</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(54).pdf" style="text-decoration:none;">Algorithmic Information Theory </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(86).pdf" style="text-decoration:none;">Induction of Decision Trees </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(55).pdf" style="text-decoration:none;">Object Recognition from Local Scale-Invariant Features </a></b></li>
 
