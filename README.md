@@ -40,7 +40,7 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(23).pdf" style="text-decoration:none;">A Machine-independent theory of the complexity of recursive functions</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(24).pdf" style="text-decoration:none;">A Training Algorithm for Optimal Margin Classi􀀀ers </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(24).pdf" style="text-decoration:none;">A Training Algorithm for Optimal Margin Classifiers</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(25).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering </a></b></li>
 
@@ -91,24 +91,24 @@
                                
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(49).pdf" style="text-decoration:none;">Weighted Voting for Replicated Data </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(50).pdf" style="text-decoration:none;">The Knowledge Complexity of Interactive Proof-Systems</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(21).pdf" style="text-decoration:none;">A Machine Program for Theorem-Proving</a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(22).pdf" style="text-decoration:none;">Artificial Intelligence: A Modern Approach</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(51).pdf" style="text-decoration:none;">An axiomatic basis for computer programming</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(52).pdf" style="text-decoration:none;">Determining Optical Flow</a></b></li>                                
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(23).pdf" style="text-decoration:none;">A Machine-independent theory of the complexity of recursive functions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(53).pdf" style="text-decoration:none;">A Method for the Construction of Minimum-Redundancy Codes</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(24).pdf" style="text-decoration:none;">A Training Algorithm for Optimal Margin Classi􀀀ers </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(54).pdf" style="text-decoration:none;">Algorithmic Information Theory </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(25).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(55).pdf" style="text-decoration:none;">Object Recognition from Local Scale-Invariant Features </a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(26).pdf" style="text-decoration:none;"> Knowledge-based analysis of microarray gene expression data by using support vector machines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(56).pdf" style="text-decoration:none;"> An Inductive Inference Machine</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(27).pdf" style="text-decoration:none;">Thirty Years Later: Lessons from the Multics Security Evaluation</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(57).pdf" style="text-decoration:none;">CONDENSATION — Conditional Density Propagation for Visual Tracking</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(28).pdf" style="text-decoration:none;">The Intrinsic Computational Difficulty of Functions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(58).pdf" style="text-decoration:none;">Soft Updates: A Solution to the Metadata Update Problem in File Systems</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(29).pdf" style="text-decoration:none;">A Relational Model of Data for Large Shared Data Banks</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(30).pdf" style="text-decoration:none;">Relational Completeness of Data Base Sublanguages</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(59).pdf" style="text-decoration:none;">First Draft of a Report on the EDVAC</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(60).pdf" style="text-decoration:none;">Snakes: Active Contour Models</a></b></li>
 
 
 
