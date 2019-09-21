@@ -185,4 +185,30 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(100).pdf" style="text-decoration:none;">The Strength of Weak Learnability</a></b></li>
 
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(101).pdf" style="text-decoration:none;">Learning to Predict by the Methods of Temporal Differences</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(102).pdf" style="text-decoration:none;">The Mythical Man-Month: Essays on Software Engineering </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(103).pdf" style="text-decoration:none;">Secrecy, Authentication, And Public Key Systems </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(104).pdf" style="text-decoration:none;">On Computable Numbers, with an Application to the Entscheidungsproblem </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(105).pdf" style="text-decoration:none;"> Computing Machinery and Intelligence</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(106).pdf" style="text-decoration:none;"> Two-level morphology: A general computational model of word-form recognition and production</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(107).pdf" style="text-decoration:none;">The UNIX Time-Sharing System</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(108).pdf" style="text-decoration:none;">A Theory of the Learnable</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(109).pdf" style="text-decoration:none;">Yacc: Yet Another Compiler-Compiler</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(110).pdf" style="text-decoration:none;">Fuzzy sets</a></b></li>
+
+
+
+
+
+
 </ul>
