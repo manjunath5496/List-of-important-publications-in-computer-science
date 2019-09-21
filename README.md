@@ -206,9 +206,14 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(110).pdf" style="text-decoration:none;">Fuzzy sets</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(111).pdf" style="text-decoration:none;">Introduction to Automata Theory, Languages, and Computation</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(112).pdf" style="text-decoration:none;">Reducibility among combinatorial problems</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(113).pdf" style="text-decoration:none;">Decidability of Second-Order Theories and Automata on Infinite Trees</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(114).pdf" style="text-decoration:none;">On Certain Formal Properties of Grammars</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(62).pdf" style="text-decoration:none;">Cutland's Computability: An Introduction to Recursive Function Theory </a></b></li>
 
 
 </ul>
