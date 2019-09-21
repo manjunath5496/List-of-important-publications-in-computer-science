@@ -156,17 +156,17 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(86).pdf" style="text-decoration:none;">Induction of Decision Trees </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(55).pdf" style="text-decoration:none;">Object Recognition from Local Scale-Invariant Features </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(87).pdf" style="text-decoration:none;">A Case for Redundant Arrays of Inexpensive Disks (RAID) </a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(56).pdf" style="text-decoration:none;"> An Inductive Inference Machine</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(88).pdf" style="text-decoration:none;"> The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(57).pdf" style="text-decoration:none;">CONDENSATION — Conditional Density Propagation for Visual Tracking</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(89).pdf" style="text-decoration:none;">The Rendering Equation</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(58).pdf" style="text-decoration:none;">Soft Updates: A Solution to the Metadata Update Problem in File Systems</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(90).pdf" style="text-decoration:none;">Comments on "the Case for the Reduced Instruction Set Computer"</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(59).pdf" style="text-decoration:none;">First Draft of a Report on the EDVAC</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(60).pdf" style="text-decoration:none;">Snakes: Active Contour Models</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(91).pdf" style="text-decoration:none;">The case for the reduced instruction set computer</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(92).pdf" style="text-decoration:none;">Finite Automata and Their Decision Problems </a></b></li>
 
 
 
