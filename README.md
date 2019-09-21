@@ -55,6 +55,60 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(30).pdf" style="text-decoration:none;">Relational Completeness of Data Base Sublanguages</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(31).pdf" style="text-decoration:none;"> Comprehending monads</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(32).pdf" style="text-decoration:none;">A Note on the Confinement Problem</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(33).pdf" style="text-decoration:none;">An Experimental Time-Sharing System</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(34).pdf" style="text-decoration:none;">Scheduling Techniques for Concurrent Systems </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(35).pdf" style="text-decoration:none;">The CRAY - 1 Computer System</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(36).pdf" style="text-decoration:none;">Cryptographic Limitations on Learning Boolean Formulae and Finite Automata  </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(37).pdf" style="text-decoration:none;">Hierarchical Program Structures</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(38).pdf" style="text-decoration:none;">A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(39).pdf" style="text-decoration:none;">Design Patterns: Elements of Reusable Object-Oriented Software </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(40).pdf" style="text-decoration:none;">Go To Statement Considered Harmful </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(41).pdf" style="text-decoration:none;"> Probabilistic Reasoning in Intelligent Systems</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(42).pdf" style="text-decoration:none;">A fast learning algorithm for deep belief nets</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(43).pdf" style="text-decoration:none;">Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(44).pdf" style="text-decoration:none;">A Fast File System for UNIX</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(45).pdf" style="text-decoration:none;">Assigning Meanings to Programs</a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(46).pdf" style="text-decoration:none;"> Learnability and the Vapnik-Chervonenkis Dimension</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(47).pdf" style="text-decoration:none;">An Empirical Study of the Robustness of Windows NT Applications Using Random Testing</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(48).pdf" style="text-decoration:none;">Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(49).pdf" style="text-decoration:none;">Weighted Voting for Replicated Data </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(50).pdf" style="text-decoration:none;">The Knowledge Complexity of Interactive Proof-Systems</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(21).pdf" style="text-decoration:none;">A Machine Program for Theorem-Proving</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(22).pdf" style="text-decoration:none;">Artificial Intelligence: A Modern Approach</a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(23).pdf" style="text-decoration:none;">A Machine-independent theory of the complexity of recursive functions</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(24).pdf" style="text-decoration:none;">A Training Algorithm for Optimal Margin Classi􀀀ers </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(25).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering </a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(26).pdf" style="text-decoration:none;"> Knowledge-based analysis of microarray gene expression data by using support vector machines</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(27).pdf" style="text-decoration:none;">Thirty Years Later: Lessons from the Multics Security Evaluation</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(28).pdf" style="text-decoration:none;">The Intrinsic Computational Difficulty of Functions</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(29).pdf" style="text-decoration:none;">A Relational Model of Data for Large Shared Data Banks</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Dinosaurs/blob/master/din(30).pdf" style="text-decoration:none;">Relational Completeness of Data Base Sublanguages</a></b></li>
 
 
 
