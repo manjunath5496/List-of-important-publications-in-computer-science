@@ -169,7 +169,20 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(92).pdf" style="text-decoration:none;">Finite Automata and Their Decision Problems </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(93).pdf" style="text-decoration:none;">Learning Internal Representations by Error Propagation </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(94).pdf" style="text-decoration:none;">SEQUEL: A Structured English Query Language </a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(95).pdf" style="text-decoration:none;"> Structure and Interpretation of Computer Programs</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(96).pdf" style="text-decoration:none;">Elastically Deformable Models</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(97).pdf" style="text-decoration:none;">Mining Association Rules between Sets of Items in Large Databases</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(98).pdf" style="text-decoration:none;">Sketchpad: A man-machine graphical communication system</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(99).pdf" style="text-decoration:none;">Statecharts: A Visual Formalism For Complex Systems</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(100).pdf" style="text-decoration:none;">The Strength of Weak Learnability</a></b></li>
 
 </ul>
