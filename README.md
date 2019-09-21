@@ -128,7 +128,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(71).pdf" style="text-decoration:none;">A Description of the Model-View-Controller User Interface Paradigm in the Smalltalk-80 System </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(72).pdf" style="text-decoration:none;">Software Engineering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(72).PDF" style="text-decoration:none;">Software Engineering</a></b></li>
 
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-computer-science/blob/master/cpi(73).pdf" style="text-decoration:none;"> Realization of Natural Language Interfaces Using Lazy Functional Programming</a></b></li>
